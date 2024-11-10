@@ -23,7 +23,7 @@ Follow these steps to use the Color-Affection program:
   ```bash
   clang ColorAffection_run.c -lsndfile
 
-  ### 5. Input RGB Values
+### 5. Input RGB Values
 - Follow Terminal's instructions to sequentially enter **R**, **G**, and **B** values.
   - **Tip:** To determine HSV values based on your RGB inputs, you can use online tools like an RGB to HSV converter.
   - **Alternative:** Experiment with values in advance using a Color Wheel to approximate the color effect.
