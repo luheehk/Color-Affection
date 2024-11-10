@@ -1,6 +1,6 @@
 # Color-Affection
 
-The Color-Affection program is a C-based application that allows users to transform an audio file by inputting RGB color values. These RGB values adjust three effectors—**Delay**, **Decay**, and **Threshold**—to create unique audio transformations based on the selected color. Now, color your sound, shaping its character and texture through Color-Affection!
+The Color-Affection program is a C-based application that allows users to transform an audio file by inputting RGB color values. These RGB values adjust three effectors—**Delay**, **Decay**, and **Threshold**—to create unique audio transformations based on the selected color. Now, **color your sound**, shaping its character and texture through *Color-Affection*!
 
 ## Instructions
 
