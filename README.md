@@ -40,5 +40,5 @@ Follow these steps to use the Color-Affection program:
 ### 8. Final Check
 - Your modified audio file will be saved automatically in the same folder as **ColorAffection_run.c**.
 
-You’re now ready to create unique, color-influenced audio transformations with Color-Affection!
+You’re now ready to create your own color-influenced audio files using Color-Affection!
 
